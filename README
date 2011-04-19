@@ -1,0 +1,28 @@
+Briefly...
+==========================================
+This repository contains the work i've done related to Machine Learning
+This work was originally held at my private repository in BitBucket and i
+intend to start work converting these algorithms into C++ STL starting
+autumn 2011.
+
+Using them ...
+==========================================
+Its pretty straight forward to use them i think but if you do 
+find issues, please do not hesitate to let me know (see feedback/comments below)
+
+At this point, i've got a 8 algorithms implemented in CUDA C and i'm 
+still in the processing of cleaning up, migrating them over. Please stay tuned
+and i'll update the README file again once its done.
+
+Copyright
+==========================================
+With all my past projects, i do find that if you can use the stuff i've
+produced, its my greatest consolation and hence give you, the user, 
+full rights the software granted that you might mention myself 
+in the great works that you've done.
+
+Feedback/Comments
+==========================================
+I'm contactable at raymondtay1974@gmail.com if you 
+wish to contact me.
+
